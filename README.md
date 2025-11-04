@@ -1,0 +1,2 @@
+# LAPORAN-PRAKTIKUM_Akbar_Daniel_Ruslan_103112430248
+Akbar_Daniel_Ruslan_103112430248_12 if 07
