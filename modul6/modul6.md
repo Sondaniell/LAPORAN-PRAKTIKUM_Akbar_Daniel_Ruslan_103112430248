@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 6 <br> Doubly Linked List (Bagian Pertama)</h1>
-<p align="center">Raffy Devorian Arraz - 103112430177</p>
+<p align="center">Akbar Daniel Ruslan - 103112430248</p>
 
 ## Dasar Teori
 
